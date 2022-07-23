@@ -7,7 +7,10 @@ name = "pypi"
 aiogram = "~=2.14"
 environs = "~=8.0.0"
 
+requests = "~=2.27.1"
+pytube = "~=12.1.0"
 [dev-packages]
+Flask = "*"
 
 [requires]
 python_version = "3.9"
